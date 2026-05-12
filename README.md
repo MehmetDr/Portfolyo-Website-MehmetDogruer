@@ -21,6 +21,10 @@ Site aşağıdaki temel bölümlerden oluşmaktadır:
 4.  **Projeler:**
     *   **Atalay Manav:** Yerel işletme odaklı web arayüz projesi.
     *   **Hicaz Hyperloop:** CAN bus haberleşme protokolü üzerine gerçekleştirdiğim teknik çalışmalar.
+    *   **Bıyık Metal Website:** React ve Tailwind CSS kullanılarak geliştirilmiş, kurumsal kimlik odaklı, modern ve dinamik web projesi.
+    *   **Eventify:** PDO ve SHA256 şifreleme ile güvenliği sağlanmış, PHP tabanlı bilet ve etkinlik yönetimi (CRUD) sistemi.
+    *   **CarCheck App:** Veritabanı etkileşimi için DAO (Data Access Object) mimarisini kullanan Java tabanlı araç veri yönetim uygulaması.
+    *   **Healthy Life:** Kullanıcı sağlığını ve yaşam tarzı metriklerini takip etmeye odaklanan web uygulaması.
 
 ## 🚀 Kurulum ve Kullanım
 Projeyi yerel bilgisayarınızda görüntülemek için şu adımları izleyebilirsiniz:
